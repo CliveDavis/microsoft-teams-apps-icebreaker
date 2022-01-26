@@ -162,7 +162,7 @@
     <comment>Part 3 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
-    <value>Hi there again, I'm {0} in {1}. I'm Icebreaker, an IT Services bot that pairs you with a new colleague to meet each month. This month your match is {2}.</value>
+    <value>Hi there again, I'm Icebreaker, an IT Services bot that pairs you with a new colleague to meet each month. This month your match in {1} is {2}.</value>
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
@@ -210,7 +210,7 @@
     <comment>Button text to resume pairings</comment>
   </data>
   <data name="SalutationTitleText" xml:space="preserve">
-    <value>Hi Redbridge Colleague! I’m Icebreaker - an IT Services bot that pairs you with a new colleague to meet each month.</value>
+    <value>Hi Redbridge Colleague! I’m Icebreaker - an IT Services bot</value>
     <comment>This is the text for the salutation in the adaptive cards when the bot is installed to a team and also when new users are added to the team</comment>
   </data>
   <data name="TakeATourButtonText" xml:space="preserve">
