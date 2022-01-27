@@ -14,12 +14,5 @@
         }
       ]
     }
-  ],
-  "actions": [
-    {
-      "type": "Action.OpenUrl",
-      "title": "${tourButtonText}",
-      "url": "${tourUrl}"
-    }
   ]
 }
